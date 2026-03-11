@@ -101,3 +101,5 @@ Output
 Reference
 
 [1] Elvina. "Assisted in Q4 Diamond Heights Park Ride."
+
+[2] Claude AI. "Assisted in Q1 and Q2."
