@@ -15,15 +15,23 @@ Sample Output
 
 <img src="/sample-output/Q3-Test1.png">
 Input
+
 3
+
 Aristo Inno Vergo
+
 2 1 2
 
 Output
+
 Aristo|Try Again|1
+
 Inno|Get Out|0
+
 Vergo|Try Again|1
+
 Aristo|Get Out|0
+
 Vergo|Get Out|0
 
 <img src="/sample-output/Q3-Test2.png">
@@ -33,15 +41,25 @@ Jona Chris Hannz Elvina Melinda Reva
 2 1 2 2 1 2
 
 Output
+
 Jona|Try Again|1
+
 Chris|Get Out|0
+
 Hannz|Try Again|1
+
 Elvina|Try Again|1
+
 Melinda|Get Out|0
+
 Reva|Try Again|1
+
 Jona|Get Out|0
+
 Hannz|Get Out|0
+
 Elvina|Get Out|0
+
 Reva|Get Out|0
 
 Question 4
@@ -69,12 +87,17 @@ Output
 
 <img src="/sample-output/Q4-Test2.png">
 Input
+
 7
+
 Jona, Chris, Hannz, Jeff, Elvina, Melinda, Reva
+
 2, 8, 9, 10, 17, 5, 3
 
 Output
+
 [Elvina, Hannz, Chris, Melinda, Reva, Jona]
 
 Reference
+
 [1] Elvina. "Assisted in Q4 Diamond Heights Park Ride."
